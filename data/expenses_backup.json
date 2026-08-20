@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "amount": 500.0,
+    "category": "Food",
+    "description": "Lunch",
+    "date": "05-08-26"
+  },
+  {
+    "id": 2,
+    "amount": 1200.0,
+    "category": "Travel",
+    "description": "College Bus",
+    "date": "10-08-26"
+  },
+  {
+    "id": 3,
+    "amount": 300.0,
+    "category": "Food",
+    "description": "Coffee",
+    "date": "15-08-26"
+  },
+  {
+    "id": 4,
+    "amount": 2500.0,
+    "category": "Shopping",
+    "description": "New Shoes",
+    "date": "20-08-26"
+  },
+  {
+    "id": 5,
+    "amount": 1000.0,
+    "category": "Food",
+    "description": "Dinner",
+    "date": "10-07-26"
+  },
+  {
+    "id": 6,
+    "amount": 800.0,
+    "category": "Travel",
+    "description": "Cab",
+    "date": "22-08-26"
+  }
+]
